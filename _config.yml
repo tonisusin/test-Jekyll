@@ -1,0 +1,9 @@
+# Site settings
+title: Prova Title
+author:
+  name: Toni Susin
+  email: toni.susin@upc.edu
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
